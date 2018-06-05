@@ -1,0 +1,2 @@
+# Open-Street-map-data-wrangling
+In this project I am using data mungling techniques to assess the quality of OpenStreetMap’s (OSM) data and analyze using SQL for the state of New jersey. The data wrangling takes place programmatically, using Python for most of the process and exploring the data using SQL with SQLLITE  The dataset contains the data for New York City and is downloaded from overpass.api.de which is mirror image from https://www.openstreetmap.org . The data size is around 116 MB
